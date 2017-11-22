@@ -1,0 +1,10 @@
+aniso8601
+Flask
+Flask-MySQL
+Flask-RESTful
+flask-restful-swagger-2
+jsonschema
+Pygments
+PyMySQL
+python-dateutil
+pytz
